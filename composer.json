@@ -1,0 +1,14 @@
+{
+    "name": "firstextension/hello-world",
+    "authors": [
+        {
+            "name": "rizwan"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
